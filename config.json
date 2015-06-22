@@ -1,0 +1,6 @@
+{
+    "logFile"       : "./access.log" ,
+    "contentFile"   : "./content.txt" ,
+    "url"           : "http://test.com/index.php" ,
+    "webkitNum"     : 50
+}
